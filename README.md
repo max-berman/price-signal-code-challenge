@@ -2,11 +2,11 @@
 
 ## Tech Requirements
 
-Create a simple single-page app using [Create React App](https://github.com/facebook/create-react-app) or [Gatsby](https://www.gatsbyjs.org/) as a boilerplate based on your preference.
+- Create a simple single-page app using [Create React App](https://github.com/facebook/create-react-app) or [Gatsby](https://www.gatsbyjs.org/) as a boilerplate based on your preference.
 
-To style React Components feel free to use ether CSS Modules or Styled-components.
+- To style React Components feel free to use ether CSS Modules or Styled-components.
 
-The pages have to be responsive.
+- The pages have to be responsive.
 
 ## What is the app about?
 
