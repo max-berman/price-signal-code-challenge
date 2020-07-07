@@ -23,7 +23,7 @@ Search, pagination and tabs could be omitted, leaving only ability to display fi
 ![mockup](mockup.png)
 
 
-## The aspects of your code will be revied based on
+## The aspects of your code will be reviewed based on
 
 - [ ] Code quality: clean, readable and reusable code.
 - [ ] Clarity:  Does the README clearly and concisely explain the problem and solution? Are technical trade offs explained?
