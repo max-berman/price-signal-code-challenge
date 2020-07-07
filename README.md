@@ -14,7 +14,8 @@ It's a light price monitoring web-based application that displays Nintendo Switc
 
 To extract games and pricing information use [nintendo-switch-eshop library](https://lmmfranco.github.io/nintendo-switch-eshop/index.html)
 
-Refer to the mockup for layout and basic functionality. 
+Refer to the mockup for layout and basic functionality.
+
 The state of the actions for buttons `Add To Wish-List` and `Email When Price Drops` could be saved in local state or local storage.
 
 Search, pagination and tabs could be omitted, leaving only ability to display first 10 games from the recent Deals.
