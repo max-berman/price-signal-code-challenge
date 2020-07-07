@@ -12,9 +12,9 @@
 
 It's a light price monitoring web-based application that displays Nintendo Switch games, which are currently on sale. 
 
-To extract games and pricing information use [nintendo-switch-eshop library](https://lmmfranco.github.io/nintendo-switch-eshop/index.html)
+To extract games and pricing information use [nintendo-switch-eshop library](https://lmmfranco.github.io/nintendo-switch-eshop/index.html).
 
-Refer to the mockup for layout and basic functionality.
+Refer to the mockups of the fron page and game page for layout and basic functionality.
 
 The state of the actions for buttons `Add To Wish-List` and `Email When Price Drops` could be saved in local state or local storage.
 
